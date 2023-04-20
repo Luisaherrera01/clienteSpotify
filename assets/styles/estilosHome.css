@@ -1,0 +1,11 @@
+.banner{
+    background-image: url("../img/bethel.jpg");
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 25%;
+}
+
+.menu{
+    background-color: rgba(85, 73, 8, 0.288);
+}
