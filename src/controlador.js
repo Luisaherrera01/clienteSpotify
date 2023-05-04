@@ -24,7 +24,7 @@ pedirTokenEnSpotify()
             pista.src=cancion.preview_url
 
             let nombre = document.createElement("h4")
-            nombre.classList.add("text-center", "p-2", "m-3")
+            nombre.classList.add("text-center","fw-bold", "p-2", "m-3")
             nombre.textContent = cancion.name
 
             let foto = document.createElement("img")
